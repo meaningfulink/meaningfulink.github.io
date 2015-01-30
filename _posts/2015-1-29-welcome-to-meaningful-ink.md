@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Welcome to Meaningful Ink"
 published: true
 ---
 
