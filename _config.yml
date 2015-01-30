@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Meaningful Ink
-tagline:             '&nbsp  — &nbsp Thoughts on the inside and outside world'
+tagline:             '&nbsp  — &nbsp Thoughts on the inside & outside world'
 description:         'Thoughts, essays, and short fiction imperfectly translated to the written word by a young man looking for meaning.'
 url:                 http://meaningful.ink
 baseurl:             /
